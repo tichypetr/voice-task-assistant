@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/process-voice.js": {
+      "maxDuration": 30
+    }
+  }
+}
